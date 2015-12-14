@@ -10,6 +10,9 @@
   "moduleType": [],
   "private": true,
   "dependencies": {
-    "angular": "~1.4.8"
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4",
+    "angular-chart.js": "~0.8.8",
+    "Chart.js": "~1.0.2"
   }
 }
