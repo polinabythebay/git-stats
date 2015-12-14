@@ -29,6 +29,8 @@ app.use(bodyParser());
 app.use(partials());
 //load client side assets
 app.use(express.static(path.join(__dirname, 'public')));
+//client side package manager
+app.use('/bower_components',  express.static(__dirname + '/bower_components'));
 
 /*************************************************************
 Routes

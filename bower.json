@@ -1,0 +1,15 @@
+{
+  "name": "git-repo-stats",
+  "description": "visualize repo stats",
+  "main": "app.js",
+  "authors": [
+    "Polina Soshnin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/polinadotio/git-stats",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.8"
+  }
+}

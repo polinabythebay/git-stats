@@ -7,8 +7,7 @@ Visualize your public repositories with D3.js!
 - Node.js
 - Express.js
 - Github API
-- Backbone.js
-- D3.js
+- Angular
 - Heroku for hosting
 - Postman for API exploring
 

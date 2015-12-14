@@ -2,7 +2,7 @@
   "name": "git-repo-stats",
   "version": "1.0.0",
   "description": "visualize repo stats",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "test"
   },
