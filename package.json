@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/polinadotio/git-stats#readme",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
+    "express-partials": "^0.3.0",
     "fs": "0.0.2",
     "https": "^1.0.0",
     "underscore": "^1.8.3"

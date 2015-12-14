@@ -7,8 +7,8 @@ Visualize your public repositories with D3.js!
 - Node.js
 - Express.js
 - Github API
+- Backbone.js
 - D3.js
-- Passport for Github Authentication
 - Heroku for hosting
 - Postman for API exploring
 

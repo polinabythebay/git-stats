@@ -2,6 +2,8 @@
 Server dependencies
 **************************************************************/
 var express = require('express');
+var bodyParser = require('body-parser');
+var partials = require('express-partials');
 
 /*************************************************************
 Local dependencies
@@ -14,9 +16,13 @@ Express Setup
 **************************************************************/
 
 var app = express();
+
 app.set('port', (process.env.PORT || 3000));
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
+
+app.use(bodyParser());
+app.use(partials());
 
 /*************************************************************
 Routes
@@ -44,6 +50,5 @@ Start
 
 app.listen(app.get('port'), function() {
 
-  
   console.log('App is running on port', app.get('port'));
 });
