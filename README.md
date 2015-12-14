@@ -23,7 +23,6 @@ Visualize your public repositories with D3.js!
 - `heroku login`, `heroku create`
 - Define Procfile
 
-
 #### Annotated Workflow
 
 - `npm install express --save`

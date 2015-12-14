@@ -10,6 +10,10 @@ app.get('/', function(request, response) {
   response.render('index');
 });
 
+app.get('/repos', function(request, response) {
+  response.render('repos');
+});
+
 app.listen(app.get('port'), function() {
   console.log('App is running on port', app.get('port'));
 });
