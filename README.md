@@ -18,6 +18,12 @@ Visualize your public repositories with D3.js!
 - Install local packages, ie. `npm install --save url-pattern`
 - Create an init file and run using `node server.js`
 
+#### Deploying to Heroku
+
+- `heroku login`, `heroku create`
+- Define Procfile
+
+
 #### Annotated Workflow
 
 - `npm install express --save`
