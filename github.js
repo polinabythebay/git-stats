@@ -1,8 +1,7 @@
-var _ = require('underscore');
 var https = require('https');
 
 /*************************************************************
-Github Repo Data
+Uses Github API to pull Repo Data
 **************************************************************/
 
 exports.getRepoData = function(username, callback) {

@@ -26,8 +26,13 @@ app.get('/', function(request, response) {
 });
 
 app.get('/repos', function(request, response) {
-  //call github API here
-  //going to 
+
+  //not going to call API here for now
+  // github.getRepoData(req.user.username, function(result) {
+  //   res.render('repos',{ user: req.user, repos: result });
+  // });
+
+
   response.render('repos');
 });
 
