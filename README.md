@@ -10,6 +10,7 @@ Visualize your public repositories with D3.js!
 - D3.js
 - Passport for Github Authentication
 - Heroku for hosting
+- Postman for API exploring
 
 #### Getting started with Node.js
 
@@ -40,6 +41,13 @@ Redoing last commit and unstaging
 - $ git commit -m "Something terribly misguided" 
 - $ git reset --soft HEAD~ 
 - $ git reset
+
+#### Obstacles to overcome
+
+- Rate limited by Github, had to wait some time.
+- This ended up steering me away from using the API as much as I had liked.
+- So intead of focusing on different ways I could use the API, I used only 1 API call and tried to see how I could make use of that one call.
+
 
 
 
