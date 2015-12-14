@@ -4,6 +4,8 @@ Server dependencies
 var express = require('express');
 var bodyParser = require('body-parser');
 var partials = require('express-partials');
+var path = require('path');
+var morgan = require('morgan');
 
 /*************************************************************
 Local dependencies
@@ -21,8 +23,11 @@ app.set('port', (process.env.PORT || 3000));
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
 
+//logging incoming requests
+app.use(morgan('dev'));
 app.use(bodyParser());
 app.use(partials());
+app.use(express.static(path.join(__dirname, 'public')));
 
 /*************************************************************
 Routes
