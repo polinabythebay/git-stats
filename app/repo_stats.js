@@ -48,7 +48,7 @@ Languages by number
 
 exports.returnRepoStats = function(callback) {
 
-  fs.readFile('./repos.json', 'utf8', function (err, data) {
+  fs.readFile('./app/data/repos.json', 'utf8', function (err, data) {
       if (err) throw err;
       var obj = JSON.parse(data);
       var result = getLanguageRank(obj);
@@ -57,8 +57,5 @@ exports.returnRepoStats = function(callback) {
         callback(result);
       }
   });
+
 }
-
-
-
-

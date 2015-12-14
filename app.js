@@ -10,8 +10,8 @@ var morgan = require('morgan');
 /*************************************************************
 Local dependencies
 **************************************************************/
-var github = require('./github');
-var repoStats = require('./repo_stats');
+var github = require('./app/github');
+var repoStats = require('./app/repo_stats');
 
 /*************************************************************
 Express Setup
@@ -27,6 +27,7 @@ app.set('view engine', 'ejs');
 app.use(morgan('dev'));
 app.use(bodyParser());
 app.use(partials());
+//load client side assets
 app.use(express.static(path.join(__dirname, 'public')));
 
 /*************************************************************
