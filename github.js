@@ -37,22 +37,6 @@ exports.getRepoData = function(username, callback) {
   req.end();
 }
 
-//working with hardcoded data while waiting
-//for github API to reset itself
-exports.languages = 
-{ Ruby: 29,
-JavaScript: 15,
-Java: 6,
-HTML: 6,
-Python: 4,
-CSS: 3,
-'C#': 2,
-'C++': 2,
-'Objective-C': 2,
-Shell: 1,
-C: 1,
-Rust: 1,
-PHP: 1 };
 
 //I'm getting rate limited by Github :( sadness
 //exports.getRepoData("polinadotio");

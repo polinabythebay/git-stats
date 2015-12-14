@@ -7,6 +7,7 @@ var express = require('express');
 Local dependencies
 **************************************************************/
 var github = require('./github');
+var repoStats = require('./repo_stats');
 
 /*************************************************************
 Express Setup
@@ -31,9 +32,10 @@ app.get('/repos', function(request, response) {
   // github.getRepoData(req.user.username, function(result) {
   //   res.render('repos',{ user: req.user, repos: result });
   // });
-
-
-  response.render('repos');
+  
+  repoStats.returnRepoStats(function(result) {
+    response.render('repos',{ user: "polinadotio", repos: result });
+  });
 });
 
 /*************************************************************
