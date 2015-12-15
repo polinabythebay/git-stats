@@ -1,23 +1,33 @@
 <p>Username: <%= user %></p>
 
-<div class='navigation' ng-controller="LineController as LineCtrl">
+<!-- <div class='navigation' ng-controller="LineController as LineCtrl">
   <ul>
     <li><a href class='index' ng-href="#links">All Links</a></li>
     <li><a href class='create' ng-href="#shorten">Shorten</a></li>
     <li><a href class='logout' ng-click="signout()">Logout</a></li>
   </ul>
-</div>
+</div> -->
 
 <!-- <button class="barChart">Bar Chart</button>
 <div class="title"></div> -->
 
-<a href="#" ng-click="barChart = !barChart" ng-class="{ active: barChart }">
+<!-- <a href="#" ng-click="barChart = !barChart" ng-class="{ active: barChart }">
   Show bar chart
-</a>
+</a> -->
 
-<div ng-show='barChart' ng-controller="LineController as LineCtrl">
+<div ng-controller="LineController as LineCtrl">
   <p> Overview <p>
   <canvas id="bar" class="chart chart-bar"
     chart-data="data" chart-labels="labels" chart-series="series">
   </canvas>
 </div>
+
+<div ng-controller="TrendsController as LineCtrl">
+  <p> Trends <p>
+  <canvas id="line" class="chart chart-line" chart-data="data"
+    chart-labels="labels" chart-legend="true" chart-series="series"
+    chart-click="onClick">
+  </canvas> 
+</div>
+
+
