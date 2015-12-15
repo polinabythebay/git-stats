@@ -22,7 +22,7 @@ Programming languages come and go, and your Github profile represents a timeline
 - [Postman](https://www.getpostman.com/) is very helpful for exploring APIs. I recommend you give it a try!
 - [Repos by user](https://developer.github.com/v3/repos/#list-user-repositories) For users with more than 30 repos, specify per page: `https://api.github.com/users/polinadotio/repos?per_page=100`.
 - [Commits by repo](https://developer.github.com/v3/repos/commits/): `https://api.github.com/repos/polinadotio/rails-app/commits`.
-- Starred Repos: `https://api.github.com/users/polinadotio/starred?page=1&per_page=10000`
+- Repos you've starred: `https://api.github.com/users/polinadotio/starred?page=1&per_page=10000`
 
 ### Getting started
 

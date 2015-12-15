@@ -1,7 +1,42 @@
 <p class="lead">Using Github's Public API</p>
 
-<p>Using Github's Public API</p>
+<ol class="lead">
+  <li><b>Repos by user</b>
+  <p>
+  https://developer.github.com/v3/repos/#list-user-repositories
+  </p>
+    <p>
+    <code>
+    users/polinadotio/repos?per_page=100
+    </code>
+    </p>
+  </li>
 
-<p class="lead">Node.js + https module</p>
+  <li><b>Repos you've starred</b>
+    <p>
+      https://developer.github.com/v3/activity/starring/#list-repositories-being-starred
+    <p>
+    <p>
+    <code>
+    users/polinadotio/starred?page=1&per_page=10000
+    </code>
+    </p>
+  </li>
+
+  <li><b>Commits by repo</b>
+    <p>
+      https://developer.github.com/v3/repos/commits/
+    </p>
+    <p>
+    <code>
+    repos/polinadotio/git-stats/commits
+    </code>
+    </p>
+  </li>
+</ol>
+
+<p class="lead">Node.js Example</p>
 
 <script src="https://gist.github.com/polinadotio/7c94ee747dc821f08445.js"></script>
+
+<p class="lead">Learn how to do more at <a href="https://www.githubarchive.org/" target="_blank">githubarchive.org</a>.</p>
