@@ -1,0 +1,1536 @@
+[
+  {
+    "sha": "4ec72d89395fbba425a0c55771618b63b37bc7fc",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-02-14T02:56:42Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-02-14T02:56:42Z"
+      },
+      "message": "precompile for heroku",
+      "tree": {
+        "sha": "a6303ffd5dff5cd6938ff422faccaba20f6d8edb",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/a6303ffd5dff5cd6938ff422faccaba20f6d8edb"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/4ec72d89395fbba425a0c55771618b63b37bc7fc",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/4ec72d89395fbba425a0c55771618b63b37bc7fc",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/4ec72d89395fbba425a0c55771618b63b37bc7fc",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/4ec72d89395fbba425a0c55771618b63b37bc7fc/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "676e6616dc6edb79c7484241e09fe67f60a7104a",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/676e6616dc6edb79c7484241e09fe67f60a7104a",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/676e6616dc6edb79c7484241e09fe67f60a7104a"
+      }
+    ]
+  },
+  {
+    "sha": "676e6616dc6edb79c7484241e09fe67f60a7104a",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-02-14T02:55:48Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-02-14T02:55:48Z"
+      },
+      "message": "edit about page",
+      "tree": {
+        "sha": "89236d65f671b5bc545ad40ac1a5dcefc4f22895",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/89236d65f671b5bc545ad40ac1a5dcefc4f22895"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/676e6616dc6edb79c7484241e09fe67f60a7104a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/676e6616dc6edb79c7484241e09fe67f60a7104a",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/676e6616dc6edb79c7484241e09fe67f60a7104a",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/676e6616dc6edb79c7484241e09fe67f60a7104a/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ca9d82bb44184a440b68484b10cce35a4aa13b61",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/ca9d82bb44184a440b68484b10cce35a4aa13b61",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/ca9d82bb44184a440b68484b10cce35a4aa13b61"
+      }
+    ]
+  },
+  {
+    "sha": "ca9d82bb44184a440b68484b10cce35a4aa13b61",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-02-14T02:27:04Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-02-14T02:27:04Z"
+      },
+      "message": "precompile for heroku",
+      "tree": {
+        "sha": "5dac34ed3a23fa4f5526221ae258fcd86f019f9e",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/5dac34ed3a23fa4f5526221ae258fcd86f019f9e"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/ca9d82bb44184a440b68484b10cce35a4aa13b61",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/ca9d82bb44184a440b68484b10cce35a4aa13b61",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/ca9d82bb44184a440b68484b10cce35a4aa13b61",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/ca9d82bb44184a440b68484b10cce35a4aa13b61/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "15dcce483ab8dc23020697a4fe46c067625b22a2",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/15dcce483ab8dc23020697a4fe46c067625b22a2",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/15dcce483ab8dc23020697a4fe46c067625b22a2"
+      }
+    ]
+  },
+  {
+    "sha": "15dcce483ab8dc23020697a4fe46c067625b22a2",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-11T03:44:31Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-11T03:44:31Z"
+      },
+      "message": "test file",
+      "tree": {
+        "sha": "698ee66b79fc76e91b40efdaf59e84b824fe972e",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/698ee66b79fc76e91b40efdaf59e84b824fe972e"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/15dcce483ab8dc23020697a4fe46c067625b22a2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/15dcce483ab8dc23020697a4fe46c067625b22a2",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/15dcce483ab8dc23020697a4fe46c067625b22a2",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/15dcce483ab8dc23020697a4fe46c067625b22a2/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5"
+      }
+    ]
+  },
+  {
+    "sha": "c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-11T01:54:50Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-11T01:54:50Z"
+      },
+      "message": "add master.tx",
+      "tree": {
+        "sha": "88ce7cdcb564c73760315b73bba58611e376eeaf",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/88ce7cdcb564c73760315b73bba58611e376eeaf"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/c75d69e7aa3c05278f1c7b1b2bde7e5db7ae52b5/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f53f3dc8bf907cf6b6743a0a341b0987a4e0295d",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f53f3dc8bf907cf6b6743a0a341b0987a4e0295d",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/f53f3dc8bf907cf6b6743a0a341b0987a4e0295d"
+      }
+    ]
+  },
+  {
+    "sha": "f53f3dc8bf907cf6b6743a0a341b0987a4e0295d",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-11T01:15:39Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-11T01:15:39Z"
+      },
+      "message": "add css",
+      "tree": {
+        "sha": "703dda7d3916afadd9ce7650c24671d41d58578e",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/703dda7d3916afadd9ce7650c24671d41d58578e"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/f53f3dc8bf907cf6b6743a0a341b0987a4e0295d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f53f3dc8bf907cf6b6743a0a341b0987a4e0295d",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/f53f3dc8bf907cf6b6743a0a341b0987a4e0295d",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f53f3dc8bf907cf6b6743a0a341b0987a4e0295d/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "371a3df7d1a80c1a5e852ad029e60a2794a69f75",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/371a3df7d1a80c1a5e852ad029e60a2794a69f75",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/371a3df7d1a80c1a5e852ad029e60a2794a69f75"
+      }
+    ]
+  },
+  {
+    "sha": "371a3df7d1a80c1a5e852ad029e60a2794a69f75",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T03:45:04Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T03:45:04Z"
+      },
+      "message": "change bootstrap",
+      "tree": {
+        "sha": "81184355e7ba0a251ce2bfa1c7d4f2b42de284bf",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/81184355e7ba0a251ce2bfa1c7d4f2b42de284bf"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/371a3df7d1a80c1a5e852ad029e60a2794a69f75",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/371a3df7d1a80c1a5e852ad029e60a2794a69f75",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/371a3df7d1a80c1a5e852ad029e60a2794a69f75",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/371a3df7d1a80c1a5e852ad029e60a2794a69f75/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "de888087cae985ea9ba66bb208048a7a22e22c78",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/de888087cae985ea9ba66bb208048a7a22e22c78",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/de888087cae985ea9ba66bb208048a7a22e22c78"
+      }
+    ]
+  },
+  {
+    "sha": "de888087cae985ea9ba66bb208048a7a22e22c78",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:14:11Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:14:11Z"
+      },
+      "message": "assets compiled for Heroku",
+      "tree": {
+        "sha": "7684ae2b89f5ba8923b4937194ecab18c76e8906",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/7684ae2b89f5ba8923b4937194ecab18c76e8906"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/de888087cae985ea9ba66bb208048a7a22e22c78",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/de888087cae985ea9ba66bb208048a7a22e22c78",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/de888087cae985ea9ba66bb208048a7a22e22c78",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/de888087cae985ea9ba66bb208048a7a22e22c78/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "033832531f4f0f360d225d37ec4cf02143994509",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/033832531f4f0f360d225d37ec4cf02143994509",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/033832531f4f0f360d225d37ec4cf02143994509"
+      }
+    ]
+  },
+  {
+    "sha": "033832531f4f0f360d225d37ec4cf02143994509",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:13:19Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:13:19Z"
+      },
+      "message": "gems for heroku",
+      "tree": {
+        "sha": "acd4bbe00f895c8717556b9257b35331d9c686d0",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/acd4bbe00f895c8717556b9257b35331d9c686d0"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/033832531f4f0f360d225d37ec4cf02143994509",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/033832531f4f0f360d225d37ec4cf02143994509",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/033832531f4f0f360d225d37ec4cf02143994509",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/033832531f4f0f360d225d37ec4cf02143994509/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3b3a072d056716744b4963ef609f7bd565248f32",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/3b3a072d056716744b4963ef609f7bd565248f32",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/3b3a072d056716744b4963ef609f7bd565248f32"
+      }
+    ]
+  },
+  {
+    "sha": "3b3a072d056716744b4963ef609f7bd565248f32",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:07:01Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:07:01Z"
+      },
+      "message": "add modal to home page",
+      "tree": {
+        "sha": "e04373883cfa5e649c4c5bb484ab412ea47e95e8",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/e04373883cfa5e649c4c5bb484ab412ea47e95e8"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/3b3a072d056716744b4963ef609f7bd565248f32",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/3b3a072d056716744b4963ef609f7bd565248f32",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/3b3a072d056716744b4963ef609f7bd565248f32",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/3b3a072d056716744b4963ef609f7bd565248f32/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5a18687e4230031067f7d6510b0d85d1da8ba1b3",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/5a18687e4230031067f7d6510b0d85d1da8ba1b3",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/5a18687e4230031067f7d6510b0d85d1da8ba1b3"
+      }
+    ]
+  },
+  {
+    "sha": "5a18687e4230031067f7d6510b0d85d1da8ba1b3",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:02:06Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T02:02:06Z"
+      },
+      "message": "save data to a spreadsheet",
+      "tree": {
+        "sha": "53f873b81ba605951f800bd76df88d0fe6a49a80",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/53f873b81ba605951f800bd76df88d0fe6a49a80"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/5a18687e4230031067f7d6510b0d85d1da8ba1b3",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/5a18687e4230031067f7d6510b0d85d1da8ba1b3",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/5a18687e4230031067f7d6510b0d85d1da8ba1b3",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/5a18687e4230031067f7d6510b0d85d1da8ba1b3/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4e9c4d916200df15540cb69847c2878a0b73c257",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/4e9c4d916200df15540cb69847c2878a0b73c257",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/4e9c4d916200df15540cb69847c2878a0b73c257"
+      }
+    ]
+  },
+  {
+    "sha": "4e9c4d916200df15540cb69847c2878a0b73c257",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T01:28:18Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T01:28:18Z"
+      },
+      "message": "add form to home page",
+      "tree": {
+        "sha": "12f7fab5ebf1b93654ec5bcb4f0da04868330b75",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/12f7fab5ebf1b93654ec5bcb4f0da04868330b75"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/4e9c4d916200df15540cb69847c2878a0b73c257",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/4e9c4d916200df15540cb69847c2878a0b73c257",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/4e9c4d916200df15540cb69847c2878a0b73c257",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/4e9c4d916200df15540cb69847c2878a0b73c257/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f725f2684c9874e64cc4b136a6d309264576daa5",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f725f2684c9874e64cc4b136a6d309264576daa5",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/f725f2684c9874e64cc4b136a6d309264576daa5"
+      }
+    ]
+  },
+  {
+    "sha": "f725f2684c9874e64cc4b136a6d309264576daa5",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T00:52:22Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T00:52:22Z"
+      },
+      "message": "home page carousel",
+      "tree": {
+        "sha": "888dcc3f647caa76cd71764173d7b4152a253524",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/888dcc3f647caa76cd71764173d7b4152a253524"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/f725f2684c9874e64cc4b136a6d309264576daa5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f725f2684c9874e64cc4b136a6d309264576daa5",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/f725f2684c9874e64cc4b136a6d309264576daa5",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f725f2684c9874e64cc4b136a6d309264576daa5/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1"
+      }
+    ]
+  },
+  {
+    "sha": "08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T00:44:12Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-04T00:44:12Z"
+      },
+      "message": "add gems for bootstrap",
+      "tree": {
+        "sha": "cf9c5392f1ae891eb1620c37e450a5407415af20",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/cf9c5392f1ae891eb1620c37e450a5407415af20"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/08e69f594e7b811b0756b1ff2d70c1d1fc61f3d1/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "60e61646be595619cb666f9b00514c42d8b3b071",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/60e61646be595619cb666f9b00514c42d8b3b071",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/60e61646be595619cb666f9b00514c42d8b3b071"
+      }
+    ]
+  },
+  {
+    "sha": "60e61646be595619cb666f9b00514c42d8b3b071",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:45Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:45Z"
+      },
+      "message": "rails_apps_composer: rails-bootstrap app",
+      "tree": {
+        "sha": "47b5d4e572ff79a2bfa6549ae8332dff9588e166",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/47b5d4e572ff79a2bfa6549ae8332dff9588e166"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/60e61646be595619cb666f9b00514c42d8b3b071",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/60e61646be595619cb666f9b00514c42d8b3b071",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/60e61646be595619cb666f9b00514c42d8b3b071",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/60e61646be595619cb666f9b00514c42d8b3b071/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "da57e023461f5ee01523f64bf696ebf990f717cd",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/da57e023461f5ee01523f64bf696ebf990f717cd",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/da57e023461f5ee01523f64bf696ebf990f717cd"
+      }
+    ]
+  },
+  {
+    "sha": "da57e023461f5ee01523f64bf696ebf990f717cd",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:42Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:42Z"
+      },
+      "message": "rails_apps_composer: clean up starter app",
+      "tree": {
+        "sha": "1f67bdc8a3592bd10ae9464b2703b6835a57e442",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/1f67bdc8a3592bd10ae9464b2703b6835a57e442"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/da57e023461f5ee01523f64bf696ebf990f717cd",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/da57e023461f5ee01523f64bf696ebf990f717cd",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/da57e023461f5ee01523f64bf696ebf990f717cd",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/da57e023461f5ee01523f64bf696ebf990f717cd/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4"
+      }
+    ]
+  },
+  {
+    "sha": "8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:42Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:42Z"
+      },
+      "message": "rails_apps_composer: set up database",
+      "tree": {
+        "sha": "8115a73a04f3a5e058008d6013c4a423f796d262",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/8115a73a04f3a5e058008d6013c4a423f796d262"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/8b47e90a22b3de8bd8ccddbfd28427fbcb99e6e4/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1dbbbcd974628f5fac1855899a7f0835fa818ba4",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/1dbbbcd974628f5fac1855899a7f0835fa818ba4",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/1dbbbcd974628f5fac1855899a7f0835fa818ba4"
+      }
+    ]
+  },
+  {
+    "sha": "1dbbbcd974628f5fac1855899a7f0835fa818ba4",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:39Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:39Z"
+      },
+      "message": "rails_apps_composer: add README files",
+      "tree": {
+        "sha": "51e82044d41ab6608b3050f32ff5bbc009914d53",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/51e82044d41ab6608b3050f32ff5bbc009914d53"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/1dbbbcd974628f5fac1855899a7f0835fa818ba4",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/1dbbbcd974628f5fac1855899a7f0835fa818ba4",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/1dbbbcd974628f5fac1855899a7f0835fa818ba4",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/1dbbbcd974628f5fac1855899a7f0835fa818ba4/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "aea85d26b281868e9eab4b48052f310edc6fc79e",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/aea85d26b281868e9eab4b48052f310edc6fc79e",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/aea85d26b281868e9eab4b48052f310edc6fc79e"
+      }
+    ]
+  },
+  {
+    "sha": "aea85d26b281868e9eab4b48052f310edc6fc79e",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:38Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:38Z"
+      },
+      "message": "rails_apps_composer: front-end framework",
+      "tree": {
+        "sha": "091c0722266a71d301bdc3145e993845dcfba3aa",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/091c0722266a71d301bdc3145e993845dcfba3aa"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/aea85d26b281868e9eab4b48052f310edc6fc79e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/aea85d26b281868e9eab4b48052f310edc6fc79e",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/aea85d26b281868e9eab4b48052f310edc6fc79e",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/aea85d26b281868e9eab4b48052f310edc6fc79e/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "01f9ab0900255b6c75ea15dde6262355b5e93591",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/01f9ab0900255b6c75ea15dde6262355b5e93591",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/01f9ab0900255b6c75ea15dde6262355b5e93591"
+      }
+    ]
+  },
+  {
+    "sha": "01f9ab0900255b6c75ea15dde6262355b5e93591",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:36Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:43:36Z"
+      },
+      "message": "rails_apps_composer: generators",
+      "tree": {
+        "sha": "710c5a9d88b31173ba490775d4b3f66a985347d4",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/710c5a9d88b31173ba490775d4b3f66a985347d4"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/01f9ab0900255b6c75ea15dde6262355b5e93591",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/01f9ab0900255b6c75ea15dde6262355b5e93591",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/01f9ab0900255b6c75ea15dde6262355b5e93591",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/01f9ab0900255b6c75ea15dde6262355b5e93591/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f5f881a0d80708072d6cf92588367f3364211316",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f5f881a0d80708072d6cf92588367f3364211316",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/f5f881a0d80708072d6cf92588367f3364211316"
+      }
+    ]
+  },
+  {
+    "sha": "f5f881a0d80708072d6cf92588367f3364211316",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:41:45Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:41:45Z"
+      },
+      "message": "rails_apps_composer: Gemfile",
+      "tree": {
+        "sha": "23728d721d9abc96b26580312f7bf9f42ae89882",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/23728d721d9abc96b26580312f7bf9f42ae89882"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/f5f881a0d80708072d6cf92588367f3364211316",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f5f881a0d80708072d6cf92588367f3364211316",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/f5f881a0d80708072d6cf92588367f3364211316",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/f5f881a0d80708072d6cf92588367f3364211316/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c",
+        "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c"
+      }
+    ]
+  },
+  {
+    "sha": "0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c",
+    "commit": {
+      "author": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:40:01Z"
+      },
+      "committer": {
+        "name": "Polina Soshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2014-01-03T23:40:01Z"
+      },
+      "message": "rails_apps_composer: initial commit",
+      "tree": {
+        "sha": "15a38a87b32c4c9c74b73eb6ca87c02d0677872f",
+        "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/trees/15a38a87b32c4c9c74b73eb6ca87c02d0677872f"
+      },
+      "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/git/commits/0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c",
+    "html_url": "https://github.com/polinadotio/cs350-week-three-rails-bootstrap/commit/0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c",
+    "comments_url": "https://api.github.com/repos/polinadotio/cs350-week-three-rails-bootstrap/commits/0ffc9283b0cd22a3e0f8cd6cfc7b0dbfaa7f5d6c/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]

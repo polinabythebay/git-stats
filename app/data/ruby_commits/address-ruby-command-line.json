@@ -1,0 +1,486 @@
+[
+  {
+    "sha": "2f2c0146200096d16aec400d1bd10133e82c1f99",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-09T01:17:29Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-09T01:17:29Z"
+      },
+      "message": "add fuctionality to menu controller",
+      "tree": {
+        "sha": "76f0bf59e774de778977b9f55aee3b01088cea1c",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/76f0bf59e774de778977b9f55aee3b01088cea1c"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/2f2c0146200096d16aec400d1bd10133e82c1f99",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/2f2c0146200096d16aec400d1bd10133e82c1f99",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/2f2c0146200096d16aec400d1bd10133e82c1f99",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/2f2c0146200096d16aec400d1bd10133e82c1f99/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9c27450c0ecc531c44f9c73f9f0f198a8c17a224",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/9c27450c0ecc531c44f9c73f9f0f198a8c17a224",
+        "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/9c27450c0ecc531c44f9c73f9f0f198a8c17a224"
+      }
+    ]
+  },
+  {
+    "sha": "9c27450c0ecc531c44f9c73f9f0f198a8c17a224",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-08T23:56:10Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-08T23:56:10Z"
+      },
+      "message": "add binary search to address book",
+      "tree": {
+        "sha": "65cdd9c4f24082e6048e95d294f0a1beb26daf04",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/65cdd9c4f24082e6048e95d294f0a1beb26daf04"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/9c27450c0ecc531c44f9c73f9f0f198a8c17a224",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/9c27450c0ecc531c44f9c73f9f0f198a8c17a224",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/9c27450c0ecc531c44f9c73f9f0f198a8c17a224",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/9c27450c0ecc531c44f9c73f9f0f198a8c17a224/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "60c160bd124dc88040a49cb7d2f7845ce3d251c0",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/60c160bd124dc88040a49cb7d2f7845ce3d251c0",
+        "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/60c160bd124dc88040a49cb7d2f7845ce3d251c0"
+      }
+    ]
+  },
+  {
+    "sha": "60c160bd124dc88040a49cb7d2f7845ce3d251c0",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-08T23:23:51Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-08T23:23:51Z"
+      },
+      "message": "add csv import to address book model",
+      "tree": {
+        "sha": "dde811b2031d6afe396f22e476c7602082e7faab",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/dde811b2031d6afe396f22e476c7602082e7faab"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/60c160bd124dc88040a49cb7d2f7845ce3d251c0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/60c160bd124dc88040a49cb7d2f7845ce3d251c0",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/60c160bd124dc88040a49cb7d2f7845ce3d251c0",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/60c160bd124dc88040a49cb7d2f7845ce3d251c0/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3f680297f50e42bb6624bd75afc1f3d3500cb25e",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/3f680297f50e42bb6624bd75afc1f3d3500cb25e",
+        "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/3f680297f50e42bb6624bd75afc1f3d3500cb25e"
+      }
+    ]
+  },
+  {
+    "sha": "3f680297f50e42bb6624bd75afc1f3d3500cb25e",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-03T02:03:41Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-03T02:03:41Z"
+      },
+      "message": "add menu",
+      "tree": {
+        "sha": "4d163f3c598f231312bb4d53829f4f57082bbf89",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/4d163f3c598f231312bb4d53829f4f57082bbf89"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/3f680297f50e42bb6624bd75afc1f3d3500cb25e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/3f680297f50e42bb6624bd75afc1f3d3500cb25e",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/3f680297f50e42bb6624bd75afc1f3d3500cb25e",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/3f680297f50e42bb6624bd75afc1f3d3500cb25e/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f008aa94a1b777811d67822a2f78934f485090f1",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/f008aa94a1b777811d67822a2f78934f485090f1",
+        "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/f008aa94a1b777811d67822a2f78934f485090f1"
+      }
+    ]
+  },
+  {
+    "sha": "f008aa94a1b777811d67822a2f78934f485090f1",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-03T01:20:41Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-03T01:20:41Z"
+      },
+      "message": "add Entry and AddressBook",
+      "tree": {
+        "sha": "f79b3953810dd7c6032da044e727e65f5218ba34",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/f79b3953810dd7c6032da044e727e65f5218ba34"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/f008aa94a1b777811d67822a2f78934f485090f1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/f008aa94a1b777811d67822a2f78934f485090f1",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/f008aa94a1b777811d67822a2f78934f485090f1",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/f008aa94a1b777811d67822a2f78934f485090f1/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6af628709d9752af6871526fa0592d3754a89fa5",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/6af628709d9752af6871526fa0592d3754a89fa5",
+        "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/6af628709d9752af6871526fa0592d3754a89fa5"
+      }
+    ]
+  },
+  {
+    "sha": "6af628709d9752af6871526fa0592d3754a89fa5",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-03T00:51:12Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-03T00:51:12Z"
+      },
+      "message": "add Gemfile",
+      "tree": {
+        "sha": "14a52327095345ca4b8c181a7bbba8914941eda2",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/14a52327095345ca4b8c181a7bbba8914941eda2"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/6af628709d9752af6871526fa0592d3754a89fa5",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/6af628709d9752af6871526fa0592d3754a89fa5",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/6af628709d9752af6871526fa0592d3754a89fa5",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/6af628709d9752af6871526fa0592d3754a89fa5/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e",
+        "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e"
+      }
+    ]
+  },
+  {
+    "sha": "f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e",
+    "commit": {
+      "author": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-02T23:52:22Z"
+      },
+      "committer": {
+        "name": "psoshnin",
+        "email": "psoshnin@wellesley.edu",
+        "date": "2015-06-02T23:52:22Z"
+      },
+      "message": "initial commit",
+      "tree": {
+        "sha": "061ee851568ca570814cdf74fcb90d8e08797a9e",
+        "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/trees/061ee851568ca570814cdf74fcb90d8e08797a9e"
+      },
+      "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/git/commits/f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e",
+    "html_url": "https://github.com/polinadotio/address-ruby-command-line/commit/f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e",
+    "comments_url": "https://api.github.com/repos/polinadotio/address-ruby-command-line/commits/f46e5a08ebe75f8dfd5b14f8e05b099217c2c33e/comments",
+    "author": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "polinadotio",
+      "id": 3048412,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3048412?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/polinadotio",
+      "html_url": "https://github.com/polinadotio",
+      "followers_url": "https://api.github.com/users/polinadotio/followers",
+      "following_url": "https://api.github.com/users/polinadotio/following{/other_user}",
+      "gists_url": "https://api.github.com/users/polinadotio/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/polinadotio/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/polinadotio/subscriptions",
+      "organizations_url": "https://api.github.com/users/polinadotio/orgs",
+      "repos_url": "https://api.github.com/users/polinadotio/repos",
+      "events_url": "https://api.github.com/users/polinadotio/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/polinadotio/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]

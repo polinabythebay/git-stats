@@ -1,5 +1,6 @@
 var _ = require('underscore');
 var fs = require('fs');
+var moment = require('moment');
 
 /*************************************************************
 Add Underscore Mixin to sort by keys
@@ -40,6 +41,45 @@ var getLanguageRank = function(arr) {
     return -(value);
   });
 }
+
+var getNameofRepos = function(callback) {
+  fs.readFile('./app/data/repos.json', 'utf8', function (err, data) {
+    if (err) throw err;
+    var obj = JSON.parse(data);
+
+    _.each(obj, function(item) {
+      if (item.language === 'Ruby') {
+      console.log(item.name);
+      }
+    });
+
+    console.log(obj.length);
+
+    if (callback) {
+      callback(result);
+    }
+  });
+}
+
+var getNumberofCommits = function(callback) {
+  fs.readFile('./app/data/commits.json', 'utf8', function (err, data) {
+    if (err) throw err;
+    var obj = JSON.parse(data);
+
+    _.each(obj, function(item) {
+      var n = moment(item.commit.author.date)
+      console.log("month", n.format('MMMM'));
+    });
+
+    console.log("number of commits",obj.length);
+
+    if (callback) {
+      callback(result);
+    }
+  });
+}
+//2015-06-02T23:52:22Z
+getNameofRepos();
 
 /*************************************************************
 Use Underscore and FS and read in JSON and return repo
