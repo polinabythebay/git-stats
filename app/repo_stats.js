@@ -79,7 +79,7 @@ var getNumberofCommits = function(callback) {
   });
 }
 //2015-06-02T23:52:22Z
-getNameofRepos();
+// getNameofRepos();
 
 /*************************************************************
 Use Underscore and FS and read in JSON and return repo
