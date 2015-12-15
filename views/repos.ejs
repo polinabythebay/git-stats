@@ -1,7 +1,5 @@
 <p>Username: <%= user %></p>
 
-<p> Languages in my repo <p>
-
  <% if (repos) { %>
 <table>
 <% for(var key in repos) { %>
@@ -16,7 +14,12 @@
 <!-- <button class="barChart">Bar Chart</button>
 <div class="title"></div> -->
 
-<div ng-controller="LineController as LineCtrl">
+<a href="#" ng-click="barChart = !barChart" ng-class="{ active: barChart }">
+  Show bar chart
+</a>
+
+<div ng-show='barChart' ng-controller="LineController as LineCtrl">
+  <p> Overview <p>
   <canvas id="bar" class="chart chart-bar"
     chart-data="data" chart-labels="labels" chart-series="series">
   </canvas>
