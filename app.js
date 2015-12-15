@@ -62,6 +62,10 @@ app.get('/repos', function(request, response) {
   response.render('repos',{ user: query.username, repos: {}});
 });
 
+app.get('/using-github-api', function(request, response) {
+  response.render('github');
+});
+
 /*************************************************************
 Start
 **************************************************************/

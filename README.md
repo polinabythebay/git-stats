@@ -1,6 +1,10 @@
 ## Github Language Trends
 
-Visualize your public repositories with D3.js!
+A tool to visualize your use of programming languages on Github.
+
+### Summary
+
+Programming languages come and go, and your Github profile represents a timeline of your learning as a programmer. However, the statistics Github displays are mainly used to help other people understand how useful your profile may be to them: what is shown by default is the projects with the most stars, and the projects you’ve recently pushed to. This app instead is meant to reflect on what you've worked on thus far and what you've experimented with.
 
 ### Technologies Used
 
@@ -8,13 +12,57 @@ Visualize your public repositories with D3.js!
 - Express.js
 - Github's Public API
 - Angular.js
+- Bootstrap.js
+- Chart.js
 - Heroku for app hosting
 - Postman for API exploring
+
+### Using Github's Public API with Node.js
+
+- [Postman](https://www.getpostman.com/) is very helpful for exploring APIs. I recommend you give it a try!
+- [Repos by user](https://developer.github.com/v3/repos/#list-user-repositories) For users with more than 30 repos, specify per page: `https://api.github.com/users/polinadotio/repos?per_page=100`.
+- [Commits by repo](https://developer.github.com/v3/repos/commits/): `https://api.github.com/repos/polinadotio/rails-app/commits`.
+- Starred Repos: `https://api.github.com/users/polinadotio/starred?page=1&per_page=10000`
+
+```
+var https = require('https');
+
+var options = {
+  "method": "GET",
+  "hostname": "api.github.com",
+  "path": "/users/polinadotio/repos?per_page=100",
+  "headers": {
+    "User-Agent": "polinadotio"
+  }
+};
+
+var repo_data;
+
+var req = https.request(options, function (res) {
+  var chunks = [];
+
+  res.on("data", function (chunk) {
+    chunks.push(chunk);
+  });
+
+  res.on("end", function () {
+    var body = Buffer.concat(chunks);
+    repo_data = JSON.parse(body.toString());
+    console.log("response", repo_data);
+    if (callback) {
+      callback(result);
+    }
+  });
+});
+
+req.end();
+```
 
 ### Getting started
 
 - `git clone https://github.com/polinadotio/git-stats.git`
-- 'npm install && bower install'
+- `npm install && bower install`
+- Start server at `app.js`
 
 #### Obstacles to overcome
 
