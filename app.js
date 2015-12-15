@@ -6,6 +6,7 @@ var bodyParser = require('body-parser');
 var partials = require('express-partials');
 var path = require('path');
 var morgan = require('morgan');
+var url = require('url');
 
 /*************************************************************
 Local dependencies
@@ -25,7 +26,10 @@ app.set('view engine', 'ejs');
 
 //logging incoming requests
 app.use(morgan('dev'));
-app.use(bodyParser());
+// Parse JSON (uniform resource locators)
+app.use(bodyParser.json());
+// Parse forms (signup/login)
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(partials());
 //load client side assets
 app.use(express.static(path.join(__dirname, 'public')));
@@ -50,8 +54,11 @@ app.get('/repos', function(request, response) {
   // repoStats.returnRepoStats(function(result) {
   //   response.render('repos',{ user: "polinadotio", repos: result });
   // });
+  var url_parts = url.parse(request.url, true);
+  var query = url_parts.query;
 
-  response.render('repos',{ user: 'polinadotio', repos: {}});
+  console.log("QUERY", query);
+  response.render('repos',{ user: query.username, repos: {}});
 });
 
 /*************************************************************
