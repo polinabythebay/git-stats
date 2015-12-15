@@ -22,6 +22,13 @@
   </canvas>
 </div>
 
+<div ng-controller="PieController as PieCtrl">
+  <p class="lead"> Starred Repos by Language<p>
+  <canvas id="pie" class="chart chart-pie"
+  chart-data="data" chart-labels="labels">
+  </canvas> 
+</div>
+
 <div ng-controller="TrendsController as LineCtrl">
   <p class="lead"> Trends of commits by language over time<p>
   <canvas id="line" class="chart chart-line" chart-data="data"
@@ -29,6 +36,8 @@
     chart-click="onClick">
   </canvas> 
 </div>
+
+
 
 
 

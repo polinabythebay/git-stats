@@ -2,6 +2,7 @@ var gitStats = angular.module("gitStats", [
   'chart.js',
   'gitStats.languages',
   'gitStats.trends',
+  'gitStats.pie',
   'ngRoute',
 ])
 .config(function($routeProvider, $httpProvider) {
