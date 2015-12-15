@@ -2,6 +2,7 @@
 
 <p> Languages in my repo <p>
 
+ <% if (repos) { %>
 <table>
 <% for(var key in repos) { %>
    <tr>
@@ -10,6 +11,13 @@
    </tr>
 <% } %>
 </table>
+<% } %>
 
-<button class="barChart">Bar Chart</button>
-<div class="title"></div>
+<!-- <button class="barChart">Bar Chart</button>
+<div class="title"></div> -->
+
+<div ng-controller="LineController as LineCtrl">
+  <canvas id="bar" class="chart chart-bar"
+    chart-data="data" chart-labels="labels" chart-series="series">
+  </canvas>
+</div>

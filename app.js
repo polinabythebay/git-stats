@@ -47,9 +47,11 @@ app.get('/repos', function(request, response) {
   //   res.render('repos',{ user: req.user, repos: result });
   // });
   
-  repoStats.returnRepoStats(function(result) {
-    response.render('repos',{ user: "polinadotio", repos: result });
-  });
+  // repoStats.returnRepoStats(function(result) {
+  //   response.render('repos',{ user: "polinadotio", repos: result });
+  // });
+
+  response.render('repos',{ user: 'polinadotio', repos: {}});
 });
 
 /*************************************************************
