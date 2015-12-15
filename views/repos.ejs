@@ -1,4 +1,4 @@
-<p>Username: <%= user %></p>
+<!-- <p>Username: <%= user %></p> -->
 
 <!-- <div class='navigation' ng-controller="LineController as LineCtrl">
   <ul>
@@ -16,14 +16,14 @@
 </a> -->
 
 <div ng-controller="LineController as LineCtrl">
-  <p> Overview: repos by language <p>
+  <p class="lead"> Overview: repos by language <p>
   <canvas id="bar" class="chart chart-bar"
     chart-data="data" chart-labels="labels" chart-series="series">
   </canvas>
 </div>
 
 <div ng-controller="TrendsController as LineCtrl">
-  <p> Trends of commits by language over time<p>
+  <p class="lead"> Trends of commits by language over time<p>
   <canvas id="line" class="chart chart-line" chart-data="data"
     chart-labels="labels" chart-legend="true" chart-series="series"
     chart-click="onClick">
